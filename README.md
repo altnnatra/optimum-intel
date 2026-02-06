@@ -1,4 +1,3 @@
-```markdown
 # MiniCPM-o-2.6 Integration Testing Support
 
 This branch (`tiny-minicpm-integration`) introduces support for lightweight integration testing of the **MiniCPM-o-2.6** architecture within `optimum-intel`.
