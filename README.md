@@ -1,3 +1,11 @@
+To start testing I really recommend to use ./run_minicpmo_tests.sh. It has all the commands that are needed for testing the model from here: https://huggingface.co/h0witended/tiny-random-MiniCPM-o-2_6/tree/main
+
+
+
+
+
+
+
 <p align="center">
     <img src="https://huggingface.co/datasets/optimum/documentation-images/resolve/main/intel/logo/hf_intel_logo.png" />
 </p>
